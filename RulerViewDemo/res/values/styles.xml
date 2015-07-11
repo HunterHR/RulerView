@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BaseRulerStyle">
+        <item name="mBgColor">@android:color/darker_gray</item>
+        <item name="mLinePaintColor">@android:color/darker_gray</item>
+        <item name="mRulerPaintColor">@android:color/darker_gray</item>
+        <item name="mFontsPaintColor">@android:color/darker_gray</item>
+        <item name="mMinValuePaintColor">@android:color/darker_gray</item>
+        <item name="mAveraryValuePaintColor">@android:color/darker_gray</item>
+        <item name="mStandardValuePaintColor">@android:color/darker_gray</item>
+        <item name="mCurrentValuePaintColor">@android:color/darker_gray</item>
+
+    </style>
+</resources>

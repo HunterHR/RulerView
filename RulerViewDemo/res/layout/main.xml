@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <com.migao.RulerViewDemo.ruler.RulerView
+            xmlns:app="http://schemas.android.com/apk/res/com.migao.RulerViewDemo"
+            android:id="@+id/mgruler_oil_wear"
+            app:mBgColor="@android:color/white"
+            app:mStandardValuePaintColor="#01ffff"
+            app:mMinValuePaintColor="#EA69AE"
+            app:mAveraryValuePaintColor="#ffff00"
+            app:mCurrentValuePaintColor="#ffffff"
+            app:mLinePaintColor="#000000"
+            app:mFontsPaintColor="#000000"
+            app:mRulerPaintColor="#000000"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            />
+</LinearLayout>
+

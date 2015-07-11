@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MGRulerView">
+        <attr name="mBgColor" format="color" />
+        <attr name="mRulerPaintColor" format="color" />
+        <attr name="mFontsPaintColor" format="color" />
+        <attr name="mMinValuePaintColor" format="color" />
+        <attr name="mAveraryValuePaintColor" format="color" />
+        <attr name="mStandardValuePaintColor" format="color" />
+        <attr name="mCurrentValuePaintColor" format="color" />
+        <attr name="mLinePaintColor" format="color" />
+        <attr name="rulerNumberLabelSize" format="dimension" />
+    </declare-styleable>
+</resources>
